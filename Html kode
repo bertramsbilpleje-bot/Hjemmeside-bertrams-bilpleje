@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      Forlygterestauration & Polering | Bertrams Bilpleje - Vi kommer til dig
+    </title>
+    <meta
+      name="description"
+      content="Få dine matte forlygter som nye med mobil forlygterestauration. Vi vådsliber og UV-beskytter dine lygter direkte på din adresse på Sjælland. Spar penge og øg sikkerheden."
+    />
+    <meta
+      name="keywords"
+      content="forlygterestauration, polering af forlygter, matte forlygter, bilpleje sjælland, mobil bilpleje, vådslibning forlygter, UV beskyttelse forlygter, bilsyn forlygter"
+    />
+    <link rel="canonical" href="https://bertrams-bilpleje.replit.app/" />
+
+    <!-- Structured Data (JSON-LD) for Local Business -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Bertrams Bilpleje",
+        "image": "https://bertrams-bilpleje.replit.app/logo.png",
+        "@id": "https://bertrams-bilpleje.replit.app/",
+        "url": "https://bertrams-bilpleje.replit.app/",
+        "telephone": "+4525763136",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "",
+          "addressLocality": "Roskilde",
+          "postalCode": "4000",
+          "addressCountry": "DK"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 55.6419,
+          "longitude": 12.0878
+        },
+        "priceRange": "$$",
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        },
+        "areaServed": {
+          "@type": "State",
+          "name": "Sjælland"
+        }
+      }
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Hvorfor bliver forlygter matte og gule?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Moderne forlygter er lavet af polykarbonat-plast, som nedbrydes af solens UV-stråler, vejrsalt og stenslag over tid. Det fjerner den beskyttende hinde og gør lygterne uklare."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Hvor lang tid tager en forlygterestauration?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Det tager typisk mellem 45 og 90 minutter for begge lygter, afhængigt af hvor medtagne de er. Da vi er mobile, kan du passe dit arbejde eller slappe af derhjemme imens."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Kan alle forlygter reddes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Vi kan redde 9 ud af 10 forlygter. Hvis lygten er revnet, eller hvis skaden sidder på indersiden af glasset, kan vi desværre ikke restaurere den."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Hvor længe holder resultatet?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Med vores Premium Restaurering, hvor vi afslutter med professionel UV-forsegling, holder resultatet typisk i flere år."
+            }
+          }
+        ]
+      }
+    </script>
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bertrams-bilpleje.replit.app/" />
+    <meta
+      property="og:title"
+      content="Bertrams Bilpleje | Professionel & Mobil Forlygterestauration"
+    />
+    <meta
+      property="og:description"
+      content="Gør dine forlygter som nye med Bertrams Bilpleje. Vi tilbyder mobil service direkte på din adresse. Spar penge og øg sikkerheden."
+    />
+    <meta
+      property="og:image"
+      content="https://bertrams-bilpleje.replit.app/og-image.jpg"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:title"
+      content="Bertrams Bilpleje | Professionel & Mobil Forlygterestauration"
+    />
+    <meta
+      property="twitter:description"
+      content="Professionel mobil forlygterestauration. Vi kommer til din adresse."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Fira+Code:wght@300..700&family=Geist+Mono:wght@100..900&family=Geist:wght@100..900&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Outfit:wght@100..900&family=Oxanium:wght@200..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Space+Grotesk:wght@300..700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
